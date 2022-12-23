@@ -1,8 +1,8 @@
 ### Hi GUYSSS 👋
 
 - 🔭 I’m currently working on Kodeapik to deliver something awesomeful 😁
-- 🌱 I’m currently learning Laravel, Node.js, Flask, Gin, Echo, and Spring Boot
-- 👯 I’m looking to collaborate on Backend Dev. and Data Science internship
+- 🌱 I’m currently learning Laravel, Node.js, Flask, Gin, Echo, Spring Boot, and Data Science stuff
+- 👯 I’m looking to collaborate on Web Dev. and Data Science internship
 - 🤔 I’m looking for help with Web Dev. and Data Science projects
 - 💬 Ask me about Web Dev. and Data Science stuff
 - 📫 How to reach me: https://www.linkedin.com/in/gunturajip/
