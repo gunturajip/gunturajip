@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Web Dev. and Data Science internship
 - 🤔 I’m looking for help with Web Dev. and Data Science projects
 - 💬 Ask me about Web Dev. and Data Science stuff
-- 📫 How to reach me: https://www.linkedin.com/in/gunturajip/
+- 📫 How to reach me: https://gunturajip.github.io/portfolio/
 - 😄 Pronouns: Guntur
 - ⚡ Fun fact: I am bored of playing most of video games, but like to watch others playing or even developing it myself :)
 
