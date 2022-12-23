@@ -7,7 +7,7 @@
 - 💬 Ask me about Web Dev. and Data Science stuff
 - 📫 How to reach me: https://www.linkedin.com/in/gunturajip/
 - 😄 Pronouns: Guntur
-- ⚡ Fun fact: I am bored of play most of video games, but like to watch others playing or even develop it myself :)
+- ⚡ Fun fact: I am bored of playing most of video games, but like to watch others playing or even developing it myself :)
 
 ### Languages
 
