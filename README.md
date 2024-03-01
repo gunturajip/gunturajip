@@ -1,4 +1,4 @@
-### Hi GUYSSS 👋
+<!-- ### Hi GUYSSS 👋
 
 - 🔭 I’m currently working on Kodeapik to deliver something awesomeful 😁
 - 🌱 I’m currently learning Laravel, Node.js, Flask, Gin, Echo, Spring Boot, and Data Science stuff
@@ -7,7 +7,7 @@
 - 💬 Ask me about Web Dev. and Data Science stuff
 - 📫 How to reach me: https://gunturajip.github.io/portfolio/
 - 😄 Pronouns: Guntur
-- ⚡ Fun fact: I am bored of playing most of video games, but like to watch others playing or even developing it myself :)
+- ⚡ Fun fact: I am bored of playing most of video games, but like to watch others playing or even developing it myself :) -->
 
 ### Languages
 
