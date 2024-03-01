@@ -7,7 +7,7 @@
 - 💬 Ask me about Web Dev. and Data Science stuff
 - 📫 How to reach me: https://gunturajip.github.io/portfolio/
 - 😄 Pronouns: Guntur
-- ⚡ Fun fact: I am bored of playing most of video games, but like to watch others playing or even developing it myself :) -->
+- ⚡ Fun fact: I am bored of playing most of video games, but like to watch others playing or even developing it myself :)
 
 ### Languages
 
@@ -29,6 +29,6 @@
 ![Gin](https://img.shields.io/badge/-Gin-000?&logo=Gin)
 ![Echo](https://img.shields.io/badge/-Echo-000?&logo=Echo)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=TailwindCSS)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=TailwindCSS) -->
 
 <a href="https://gunturajip.github.io/portfolio/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=gunturajip&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunturajip&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
